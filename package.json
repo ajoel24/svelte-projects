@@ -1,0 +1,10 @@
+{
+  "name": "svelte-projects",
+  "version": "1.0.0",
+  "description": "Learning Svelte through building projects.",
+  "workspaces": ["packages/**"],
+  "repository": "https://github.com/ajoel24/svelte-projects",
+  "author": "Andrew Joel <drew.devops@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
